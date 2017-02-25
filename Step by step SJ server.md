@@ -1,15 +1,16 @@
 NODE JS latest version - recommanded NodeJS
 
-defalut packages for npm - package.json
+default packages for npm - package.json
 
 bit.ly/jsdevpackagejson
 
-open command line on root and run npm install
+open command line on root and run 
+> npm install
 
 
-node security check  ---> vulnerabilities
-install globally
+node security check  ---> vulnerabilities install globally
+> npm install -g nsp
 
-npm install -g nsp
+test  vulnerabilities
+> nsp check
 
-nsp check   <---  test  vulnerabilities
