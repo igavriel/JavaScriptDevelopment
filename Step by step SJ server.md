@@ -17,3 +17,7 @@ node security check  ---> vulnerabilities install globally
 test  vulnerabilities
 > nsp check
 
+build a script
+> node <path>
+> node buildScripts\srcServer.js
+
